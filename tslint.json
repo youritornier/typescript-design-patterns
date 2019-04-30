@@ -53,6 +53,11 @@
       true,
       "single"
     ],
-    "trailing-comma": false
+    "trailing-comma": false,
+    "variable-name": [
+      true,
+      "check-format",
+      "allow-leading-underscore"
+    ]
   }
 }

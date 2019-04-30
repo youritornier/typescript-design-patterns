@@ -17,7 +17,15 @@ The 23 Gang of Four (GoF) patterns are generally considered the foundation for a
 | [Singleton](src/singleton/README.md)               | Provides a single instance of a class                 |
 
 ## Structural
-Not implemented yet.
+| Name                                 | Description                                             |
+| -------------------------------------| ------------------------------------------------------- |
+| [Adapter](src/adapter/README.md)     | Match interfaces of different classes                   |
+| [Bridge](src/bridge/README.md)       | Separates an object’s interface from its implementation |
+| [Composite](src/composite/README.md) | A tree structure of simple and composite objects        |
+| [Decorator](src/decorator/README.md) | Add responsibilities to objects dynamically             |
+| [Facade](src/facade/README.md)       | A single class that represents an entire subsystem      |
+| [Flyweight](src/flyweight/README.md) | A fine-grained instance used for efficient sharing      |
+| [Proxy](src/proxy/README.md)         | An object representing another object                   |
 
 ## Behavioral
 Not implemented yet.

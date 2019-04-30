@@ -83,7 +83,6 @@ export class Menu {
       type: 'confirm',
       name: 'value',
       message: 'Do you want to continue?',
-      initial: true,
     });
     return continueResponse.value;
   }
