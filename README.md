@@ -8,13 +8,13 @@ The 23 Gang of Four (GoF) patterns are generally considered the foundation for a
 
 # List of design patterns
 ## Creational
-| Name                                           | Description                                           |
-| ---------------------------------------------- | ----------------------------------------------------- |
-| [Abstract Factory](abstract-factory/README.md) | Creates an instance of several families of classes    |
-| [Builder](builder/README.md)                   | Separates object construction from its representation |
-| [Factory Method](factory-method/README.md)     | Creates an instance of several derived classes        |
-| [Prototype](prototype/README.md)               | Creates an instance by cloning an existing object     |
-| [Singleton](singleton/README.md)               | Provides a single instance of a class                 |
+| Name                                               | Description                                           |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| [Abstract Factory](src/abstract-factory/README.md) | Creates an instance of several families of classes    |
+| [Builder](src/builder/README.md)                   | Separates object construction from its representation |
+| [Factory Method](src/factory-method/README.md)     | Creates an instance of several derived classes        |
+| [Prototype](src/prototype/README.md)               | Creates an instance by cloning an existing object     |
+| [Singleton](src/singleton/README.md)               | Provides a single instance of a class                 |
 
 ## Structural
 Not implemented yet.
